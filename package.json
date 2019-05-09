@@ -1,0 +1,28 @@
+{
+  "name": "alienrll.github.docs",
+  "version": "1.0.0",
+  "description": "alienrll docs",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs"
+  },
+  "scripts": {
+    "dev": "vuepress dev docs",
+    "build": "vuepress build docs",
+    "sh": "bash deploy.sh"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alienrll/alienrll.github.docs.git"
+  },
+  "keywords": [
+    "docs",
+    "rty"
+  ],
+  "author": "rty",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alienrll/alienrll.github.docs/issues"
+  },
+  "homepage": "https://github.com/alienrll/alienrll.github.docs#readme"
+}
