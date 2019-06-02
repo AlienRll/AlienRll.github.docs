@@ -2,13 +2,13 @@
 home: true
 heroImage: ./img/icon.png
 actionText: 进入学习 →
-actionLink: /zh/guide/
+actionLink: /exam/guide
 features:
-- title: 简洁至上
-  details: 以 Markdown 为中心的项目结构，以最少的配置帮助你专注于写作。
-- title: Vue驱动
-  details: 享受 Vue + webpack 的开发体验，在 Markdown 中使用 Vue 组件，同时可以使用 Vue 来开发自定义主题。
-- title: 高性能
-  details: VuePress 为每个页面预渲染生成静态的 HTML，同时在页面被加载的时候，将作为 SPA 运行。
+- title: 自学考试
+  details: 记录自己的学习过程，提高学习效率，培养良好的学习习惯，希望尽快通过考试，加油...
+- title: 杂货铺
+  details: 杂货不可怕，都是干货最重要！分享自己所学到的英语知识，学过就要留下痕迹，坚持...
+- title: 一点知识
+  details: 小知识，大收获！记录自己学的知识点，希望自己的日积月累将来能成为别人的望尘莫及，哈哈哈...
 footer: MIT Licensed | Copyright © 2018-present Evan You
 ---
